@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @O-lolade
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on several frontend and backend dev as I make progress in mu learning journey
+- 💞️ I’m looking to collaborate on several frontend and backend dev project as I make progress in my learning journey
 - 📫 How to reach me, you can reach me via mail;
 -  @olushesim@gmail.com
 
